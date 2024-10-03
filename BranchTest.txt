@@ -1,0 +1,28 @@
+✨ Welcome to Branch Test ✨
+
+------------------------------------
+   Branch: feature-branch 🌿
+   Date: 2024-10-03
+------------------------------------
+
+Hello, Git user! 👋
+
+This file was created to test branching in Git. 
+Branches allow you to develop features independently without affecting the main branch.
+
+Here are some Git branching tips:
+
+1. Create a new branch: 
+   ➡️  `git checkout -b new-feature`
+
+2. Switch between branches:
+   ➡️  `git checkout main`
+
+3. Merge your branch with the main branch:
+   ➡️  `git merge new-feature`
+
+Happy coding! 🚀✨
+
+------------------------------------
+End of Branch Test 📄
+------------------------------------
